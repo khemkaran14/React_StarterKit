@@ -16,4 +16,6 @@ Run
 ```js
 npm run start
 ```
-[Launch the project in browser](http://localhost:3000)
+Launch the projct at: 
+
+[http://localhost:3000](http://localhost:3000)
