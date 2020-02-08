@@ -7,6 +7,13 @@ This project can be used as a boilter plate for any react application developmen
 
 Clone the code from repo
 
-Run <<npm install>>
+Run 
+```
+npm install
+```
 
-Run <<npm run start>> to launch the project in <<localhost:3000>>
+Run 
+```
+npm run start
+```
+to launch the project in <<localhost:3000>>
